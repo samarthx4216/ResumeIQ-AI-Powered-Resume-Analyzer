@@ -128,8 +128,8 @@ Your Resume (PDF)  +  Job Description (text)
 
 Built by **Samar** — Building AI projects to solve real problems.
 
-Connect on [LinkedIn](https://linkedin.com/in/YOURPROFILE) |
-View on [GitHub](https://github.com/YOURUSERNAME)
+Connect on [LinkedIn](samarth-marathe-338163321) |
+View on [GitHub]([https://github.com/YOURUSERNAME](https://github.com/samarthx4216/ML_Project))
 
 ---
 
