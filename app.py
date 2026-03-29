@@ -5,6 +5,7 @@ from parser import parse_resume
 from matcher import get_match_score
 from skill_utils import get_skill_gap
 from interview_questions import generate_questions
+import fitz
 
 st.set_page_config(
     page_title="Resume AI Analyzer",
